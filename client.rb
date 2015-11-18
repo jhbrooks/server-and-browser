@@ -4,7 +4,7 @@ require 'socket'
 
 # A simple client
 hostname = "localhost"
-port = 2000
+port = 3000
 
 socket = TCPSocket.open(hostname, port)
 
