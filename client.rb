@@ -1,6 +1,6 @@
 #!/Users/jhbrooks/.rvm/rubies/ruby-2.2.0/bin/ruby
 
-require 'socket'
+require "socket"
 
 # A simple client
 hostname = "localhost"
